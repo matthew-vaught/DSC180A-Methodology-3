@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Matthew Vaught
-mavaught@ucsd.edu
+Matthew Vaught and Ryan Tjenalooi
